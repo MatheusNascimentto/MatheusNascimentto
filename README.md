@@ -2,146 +2,163 @@
 
 <div align="center">
 
-# Olá, eu sou o Matheus Nascimento 👋
+# Matheus Nascimento
 
-### Backend Developer | Java | Spring Boot | Software Engineering
+### Engenheiro de Software | Backend | Java & Spring Boot
 
-Construo aplicações backend, APIs REST e soluções orientadas a software escalável, testável e sustentável.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/matheusnascimentto/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/matheus.nascimentt0/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/MatheusNascimentto)
+**Desenvolvedor de software com mais de 5 anos de experiência profissional em ambientes corporativos e multinacionais.**
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou desenvolvedor de software com experiência profissional em desenvolvimento backend e atuação em ambientes corporativos.
+Sou **Engenheiro de Software especializado em desenvolvimento Backend**, com experiência profissional na construção, evolução e manutenção de sistemas corporativos.
 
-Minha principal stack é baseada em **Java e Spring Boot**, com foco na construção de APIs REST, integração entre sistemas, persistência de dados, testes automatizados e boas práticas de engenharia de software.
+Minha principal especialização é o ecossistema **Java e Spring**, atuando no desenvolvimento de APIs, integrações entre sistemas, regras de negócio, persistência de dados, segurança e testes automatizados.
 
-Tenho experiência trabalhando com diferentes contextos e tecnologias, buscando sempre escrever código **limpo, testável, organizado e fácil de manter**.
+Tenho uma abordagem voltada para **engenharia de software**, buscando desenvolver soluções que sejam sustentáveis no longo prazo, com código organizado, testável, seguro e de fácil evolução.
 
-Atualmente, meus principais interesses estão relacionados a:
-
-* 🔹 Desenvolvimento Backend
-* 🔹 Java & Spring Boot
-* 🔹 Arquitetura de Software
-* 🔹 APIs REST
-* 🔹 Testes automatizados
-* 🔹 Banco de dados
-* 🔹 Docker & ambientes containerizados
-* 🔹 Integração entre sistemas
-* 🔹 Boas práticas de engenharia de software
+Ao longo da minha experiência profissional, venho trabalhando em ambientes que exigem **qualidade técnica, colaboração, capacidade de análise e resolução de problemas complexos**.
 
 ---
 
-## 💻 Tech Stack
+## 🏗️ Engenharia de Software
+
+Meu foco não está apenas em frameworks ou linguagens, mas na construção de soluções bem projetadas e sustentáveis.
+
+### Arquitetura & Design
+
+* Arquitetura de Software
+* Desenvolvimento de APIs REST
+* Programação Orientada a Objetos
+* Princípios SOLID
+* Clean Code
+* Design Patterns
+* Separação de responsabilidades
+* Modelagem de domínio
+* Integração entre sistemas
+* Desenvolvimento orientado a requisitos
+
+### Qualidade de Software
+
+* Testes Unitários
+* Testes de Integração
+* Testes Automatizados
+* TDD
+* Refatoração
+* Code Review
+* Manutenibilidade
+* Confiabilidade
+* Segurança de aplicações
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
+* Java
+* Spring Boot
+* Spring Security
+* Spring Data
+* Hibernate / JPA
+* APIs REST
+* Autenticação e Autorização
+* Integração entre serviços
 
-### Databases
+### Dados
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+* PostgreSQL
+* MySQL
+* SQL
+* Modelagem de Banco de Dados
+* Persistência de Dados
+* Migrações de Banco
 
-### Testing
+### DevOps & Ferramentas
 
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge\&logo=junit5\&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78C257?style=for-the-badge\&logo=mockito\&logoColor=white)
+* Docker
+* Git
+* GitHub
+* CI/CD
+* Linux
+* Ambientes containerizados
 
-### DevOps & Tools
+---
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
+## 💻 Principais Tecnologias
+
+<div align="center">
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate"/>
+
+<br><br>
+
+### Banco de Dados & Infraestrutura
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux"/>
+
+<br><br>
+
+### Desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=git,github,idea"/>
+
+<br><br>
 
 ### Frontend
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-
----
-
-## 🧠 Engineering
-
-Além das tecnologias, tenho interesse e experiência com conceitos fundamentais de engenharia de software:
-
-* Clean Code
-* SOLID
-* Design Patterns
-* Object-Oriented Programming
-* RESTful APIs
-* Automated Testing
-* TDD
-* Software Architecture
-* Database Design
-* Git & Version Control
-* CI/CD
-* Containerization
-
----
-
-## 📌 Projetos
-
-### 🤖 Nexel Social AI
-
-Projeto backend desenvolvido com **Java + Spring Boot**, utilizando arquitetura organizada, PostgreSQL, Docker e Flyway.
-
-Principais tecnologias:
-
-`Java` `Spring Boot` `PostgreSQL` `Docker` `Flyway` `JUnit` `Mockito`
-
-O projeto tem como objetivo explorar desenvolvimento de aplicações modernas, integração com serviços e recursos relacionados a Inteligência Artificial.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusNascimentto&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusNascimentto&layout=compact&theme=transparent&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=angular,typescript"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🎯 Atualmente
 
-[![Matheus's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusNascimentto\&bg_color=0d1117\&color=219ebc\&line=219ebc\&point=ffffff\&area=true\&hide_border=true)](https://github.com/MatheusNascimentto)
+Meu foco profissional está no desenvolvimento e evolução de soluções **Backend**, aprofundando continuamente meus conhecimentos em:
+
+* Arquitetura de Software
+* Engenharia de Software
+* Java & Spring Boot
+* Sistemas distribuídos
+* Integração entre sistemas
+* Qualidade e testes automatizados
+* Boas práticas de desenvolvimento
+* Cloud & DevOps
+
+Busco constantemente evoluir minha capacidade de **projetar soluções, tomar decisões técnicas e resolver problemas de negócio através da tecnologia**.
 
 ---
 
-## 🏆 GitHub Trophies
+## 📚 Formação & Certificações
 
-<div align="center">
+**Análise e Desenvolvimento de Sistemas**
 
-<img src="https://github-profile-trophy.vercel.app/?username=MatheusNascimentto&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
+Formação voltada para desenvolvimento de software, engenharia de sistemas, banco de dados e fundamentos de tecnologia.
 
-</div>
+**Microsoft Certified: Azure Fundamentals**
 
 ---
 
-## 📫 Contato
+## 📌 Filosofia de Desenvolvimento
+
+> **Código é apenas uma parte da engenharia de software.**
+>
+> Uma boa solução precisa resolver o problema certo, ser compreensível para quem dará manutenção e estar preparada para evoluir junto com o negócio.
+
+---
+
+## 🤝 Vamos nos conectar
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/matheusnascimentto/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/MatheusNascimentto">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -150,7 +167,7 @@ O projeto tem como objetivo explorar desenvolvimento de aplicações modernas, i
 
 <div align="center">
 
-**"Always learning. Always building."**
+**Engenharia de software. Resolução de problemas. Evolução contínua.**
 
 </div>
 
