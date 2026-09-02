@@ -24,7 +24,7 @@ Ao longo da minha experiência profissional, venho trabalhando em ambientes que 
 
 ---
 
-## 🏗️ Engenharia de Software
+## Engenharia de Software
 
 Meu foco não está apenas em frameworks ou linguagens, mas na construção de soluções bem projetadas e sustentáveis.
 
@@ -138,14 +138,7 @@ Busco constantemente evoluir minha capacidade de **projetar soluções, tomar de
 Formação voltada para desenvolvimento de software, engenharia de sistemas, banco de dados e fundamentos de tecnologia.
 
 **Microsoft Certified: Azure Fundamentals**
-
----
-
-## 📌 Filosofia de Desenvolvimento
-
-> **Código é apenas uma parte da engenharia de software.**
->
-> Uma boa solução precisa resolver o problema certo, ser compreensível para quem dará manutenção e estar preparada para evoluir junto com o negócio.
+**Certificações AWS: Cloud Practitioner**
 
 ---
 
@@ -164,11 +157,5 @@ Formação voltada para desenvolvimento de software, engenharia de sistemas, ban
 </div>
 
 <br>
-
-<div align="center">
-
-**Engenharia de software. Resolução de problemas. Evolução contínua.**
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:219ebc,100:0d1117&height=120&section=footer"/>
